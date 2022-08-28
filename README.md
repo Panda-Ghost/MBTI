@@ -1,6 +1,6 @@
 # MBTI
 
-## Code
+## Code（SourceCode/mbti.cpp)
 
 ```cpp
 #include<iostream>
