@@ -1,5 +1,14 @@
 # MBTI
 
+* [](https://github.com/Panda-Ghost/MBTI#mbti)
+* [](https://github.com/Panda-Ghost/MBTI#codesourcecodembticpp)
+* [](https://github.com/Panda-Ghost/MBTI#使用方法)
+* [](https://github.com/Panda-Ghost/MBTI#题目资料)
+* [](https://github.com/Panda-Ghost/MBTI#题目文档)
+* [](https://github.com/Panda-Ghost/MBTI#计分)
+* [](https://github.com/Panda-Ghost/MBTI#来源)
+
+
 ## Code（SourceCode/mbti.cpp)
 
 ```cpp
